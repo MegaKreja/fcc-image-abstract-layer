@@ -1,0 +1,21 @@
+body {
+  text-align: center;
+  font-family: Roboto;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+code {
+  color: blue;
+}
+
+main {
+  width: 60%;
+  margin: 0 auto;
+}
